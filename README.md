@@ -14,8 +14,9 @@ I'm a first-year B.Tech student pursuing Artificial Intelligence and Machine Lea
 I'm developing my skills across programming and web development, with a focus on understanding the fundamentals and applying them through hands-on work.
 
 - 🎓 Studying **Artificial Intelligence & Machine Learning**.
-- 🌱 Currently learning **Next.js**.
-- 💡 Interested in **web development, AI, and practical problem-solving**.
+- 🌱 Learning **Next.js** and building my foundations in **AI & ML**.
+- 🤖 Exploring **machine learning, AI agents, and intelligent applications**.
+- 💡 Interested in combining **web development and AI** to solve practical problems.
 
 ### Technical Skills
 
@@ -25,13 +26,15 @@ I'm developing my skills across programming and web development, with a focus on
 | Web Technologies | HTML5, CSS3 |
 | Frontend Library | React |
 | Version Control | Git, GitHub |
-| Currently Learning | Next.js |
 
-### Current Focus
+### Currently Learning & Exploring
 
-- Building on my React knowledge as I learn Next.js.
-- Strengthening my programming and problem-solving fundamentals.
-- Connecting what I learn in my degree with practical software development.
+- **Web Development:** Next.js, API integration, and full-stack fundamentals.
+- **Python for Data:** NumPy, pandas, and data visualization with Matplotlib.
+- **Machine Learning:** Data preprocessing, supervised learning, and model evaluation with scikit-learn.
+- **AI Agents & LLMs:** Prompt design, tool calling, and the basics of retrieval-augmented generation (RAG).
+- **Mathematical Foundations:** Linear algebra, probability, and statistics for machine learning.
+- **Computer Science Fundamentals:** Data structures, algorithms, and problem-solving.
 
 ---
 
