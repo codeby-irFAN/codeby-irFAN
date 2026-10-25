@@ -5,6 +5,10 @@
   University School of Automation &amp; Robotics · GGSIPU, Delhi
 </p>
 
+<p align="center">
+  <a href="https://www.irfanahmad.xyz">🌐 My Portfolio</a>
+</p>
+
 ---
 
 ### About Me
@@ -35,12 +39,6 @@ I'm developing my skills across programming and web development, with a focus on
 - **AI Agents & LLMs:** Prompt design, tool calling, and the basics of retrieval-augmented generation (RAG).
 - **Mathematical Foundations:** Linear algebra, probability, and statistics for machine learning.
 - **Computer Science Fundamentals:** Data structures, algorithms, and problem-solving.
-
----
-
-<p align="center">
-  <i>Learning with curiosity. Building with purpose.</i>
-</p>
 
 ---
 
