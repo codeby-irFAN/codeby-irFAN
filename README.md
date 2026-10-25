@@ -41,3 +41,9 @@ I'm developing my skills across programming and web development, with a focus on
 <p align="center">
   <i>Learning with curiosity. Building with purpose.</i>
 </p>
+
+---
+
+<p align="center">
+  <i>Learning with curiosity. Building with purpose.</i>
+</p>
